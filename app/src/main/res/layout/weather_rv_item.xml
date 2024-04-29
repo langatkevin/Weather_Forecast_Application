@@ -21,7 +21,7 @@
             android:id="@+id/idTVTime"
             android:gravity="center"
             android:padding="4dp"
-            android:text="Time"
+            android:text="Time in Hrs"
             android:textColor="@color/white"
             android:textAlignment="center"
             />
